@@ -45,3 +45,33 @@ This list contains links to resources for the 70-486 Developing ASP.NET MVC Web 
 - ### Design HTTP modules and handlers
 	- Implement synchronous and asynchronous modules and handlers
 	- Choose between modules and handlers in IIS
+	
+## Design and implement security (20-25%)
+- ### Configure authentication
+	- Authenticate users; enforce authentication settings; choose between Windows, Forms and custom authentication; 
+	- Manage usersession by using cookies; configure membership providers; 
+	- Create custom membership providers;
+	- Configure ASP.NET Identity
+
+- ### Configure and apply authorisation
+	- Create roles
+	- Authorise roles by using configuration
+	- Authorise roles programmatically
+	- Create custom role providers
+	- Implement WCF service authorisation
+
+- ### Design and implement claims-based authentication across federated identity stores
+	- Implement federated authentication by using Azure Access Control Service
+	- Create a custom security token by using Windows Identity Foundation
+	- Handle token formats (for example, oAuth, OpenID, Microsoft Account, Google, Twitter and Facebook) for SAML and SWT tokens
+
+- ### Manage data integrity
+	- Apply encryption to application data
+	- Apply encryption to the configuration sections of an application
+	- Sign application data to prevent tampering
+
+- ### Implement a secure site with ASP.NET
+	- Secure communication by applying SSL certificates
+	- Salt and hash passwords for storage
+	- Use HTML encoding to prevent cross-site scripting attacks (ANTI-XSS Library)
+	- Implement deferred validation and handle unvalidated requests, for example, form, querystring and URL; prevent SQL injection attacks by parameterising queries; prevent cross-site request forgeries (XSRF)
