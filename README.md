@@ -52,6 +52,9 @@ This list contains links to resources for the 70-486 Developing ASP.NET MVC Web 
 	- Manage usersession by using cookies; configure membership providers; 
 	- Create custom membership providers;
 	- Configure ASP.NET Identity
+	
+	#Resources:
+	Form Authentication : [Link 1](https://www.youtube.com/watch?v=YV8Jze3ucPs), [Link 2](https://www.youtube.com/watch?v=IyFG3XyNq6Q&t=45s), [Link 3](https://www.codeproject.com/Articles/1111522/Custom-Authentication-and-Authorization-in-MVC)
 
 - ### Configure and apply authorisation
 	- Create roles
