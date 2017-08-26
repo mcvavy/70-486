@@ -3,7 +3,7 @@
 
 This list contains links to resources for the 70-486 Developing ASP.NET MVC Web Applications Certification Exam.
 
-## Building Web Apps with ASP.NET Jump Start - [Watch here](https://mva.microsoft.com/en-us/training-courses/programming-in-c-jump-start-14254?l=j0iuozSfB_6900115888)
+## Building Web Apps with ASP.NET Jump Start - [Watch here](https://channel9.msdn.com/Series/Building-Web-Apps-with-ASP-NET-Jump-Start)
 This video tutorial is provided for free my Microsoft. It's quite lengthy. I personally did not go through all the video one after another since I have been working with MVC for years now and I am familair with most of the topics, but could be use for someone. I definitely picked up some stuffs from here though.
 
 ## Design the application architecture (15-20%)
