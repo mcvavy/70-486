@@ -19,6 +19,9 @@ Youtube Video Series by Kudvenkat based on MVC 4 [Here](https://www.youtube.com/
 	
 - ### Design a distributed application
 	- Integrating web services
+	  - Consuming WCF Service
+	  	- [Youtube Link](https://www.youtube.com/watch?v=khgnpoxTreY&t=817s)
+		- [Consuming WCF in MVC](http://www.c-sharpcorner.com/article/consuming-wcf-service-in-mvc-application-using-entity-framework/)
 	- Designing a hybrid application
 	- Planning for session management in a distributed environment
 	- Planning web farms
